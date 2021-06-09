@@ -30,8 +30,4 @@
 ./word_extract –d sample2.txt | WordCount -b   
 ##### 세 번째
 ./word_extract –d sample2.txt | WordCount -c Beautiful   
-***   
-
-프로그램 구현
-----------
-
+***
